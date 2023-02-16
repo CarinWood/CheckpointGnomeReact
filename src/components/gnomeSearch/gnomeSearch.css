@@ -1,0 +1,41 @@
+
+.description {
+    color: white;
+}
+
+.searchText{
+    display: block;
+    width: 100%;
+    margin-bottom:10px;
+    padding-left:10px;
+    line-height: 40px;
+    color: white;
+}
+
+.gnomeResult {  
+    color: white;
+}
+
+.gnome-box {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.img {
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
+    border: 1px solid white;
+}
+
+.descriptionText {
+    width: 200px;
+    margin-left: 50px;
+}
+
+.price {
+    margin-left: 300px;
+
+}
